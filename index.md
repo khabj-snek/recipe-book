@@ -46,4 +46,5 @@ soups/*
 :caption: Desserts
 
 desserts/*
+desserts/delicious_chicken_wing_desserts.md
 ```
